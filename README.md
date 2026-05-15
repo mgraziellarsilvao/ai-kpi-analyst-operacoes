@@ -118,8 +118,7 @@ ai-kpi-analyst-operacoes/
 ├── data/
 │   └── custos_operacionais.csv   # Base simulada com parâmetros de mercado
 └── docs/
-    ├── prompt_claude_code.md     # Prompt original usado no Claude Code
-    └── linkedin_post.md          # Post de divulgação no LinkedIn
+    ├── prompt_claude_code.md     # Prompt original usado no Claude 
 ```
 
 ---
@@ -135,6 +134,7 @@ streamlit run app.py
 ```
 
 Acesse em `http://localhost:8501`
+
 Link deploy: https://ai-kpi-analyst-operacoes.streamlit.app/
 ---
 
