@@ -1,2 +1,0 @@
-# ai-kpi-analyst-operacoes
-
