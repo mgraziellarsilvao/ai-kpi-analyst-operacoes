@@ -247,7 +247,7 @@ with tab3:
     ]].sort_values("gap_sla")
 
     st.dataframe(
-        sla_tabela.style.applymap(
+        sla_tabela.style.map(
             lambda v: "color: red; font-weight: bold" if isinstance(v, float) and v < 0 else "",
             subset=["gap_sla", "gap_volume"]
         ),
