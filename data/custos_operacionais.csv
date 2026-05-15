@@ -1,1 +1,37 @@
-
+﻿mes,area,tipo,categoria,centro_custo,descricao,orcado,realizado,sla_meta,sla_real,lead_time_dias,volume_planejado,volume_realizado
+2026-01,Operações,OPEX,Manutenção Preventiva,Mobiliário Urbano,Contrato manutenção preventiva,185000,179500,96.5,97.2,2.1,140,137
+2026-01,Operações,OPEX,Manutenção Corretiva,Mobiliário Urbano,Chamados corretivos em equipamentos,120000,132800,90.0,86.4,5.8,210,238
+2026-01,Facilities,OPEX,Energia Elétrica,Abrigos e Painéis,Consumo energia ativos digitais,98000,104500,95.0,94.1,1.9,88,92
+2026-01,Logística,OPEX,Transporte,Filiais,Fretes e deslocamentos técnicos,72000,68800,92.0,93.5,3.4,64,61
+2026-01,Engenharia,CAPEX,Implantação de Ativos,Projetos Novos,Instalação de novos equipamentos,310000,295000,98.0,97.0,4.5,18,17
+2026-01,Administrativo,OPEX,Serviços Terceiros,Backoffice,Apoio administrativo e contratos,86000,88400,96.0,95.5,2.0,35,36
+2026-02,Operações,OPEX,Manutenção Preventiva,Mobiliário Urbano,Contrato manutenção preventiva,185000,183200,96.5,96.8,2.2,142,141
+2026-02,Operações,OPEX,Manutenção Corretiva,Mobiliário Urbano,Chamados corretivos em equipamentos,125000,151000,90.0,83.2,7.4,220,271
+2026-02,Facilities,OPEX,Energia Elétrica,Abrigos e Painéis,Consumo energia ativos digitais,101000,112500,95.0,92.9,2.8,90,99
+2026-02,Logística,OPEX,Transporte,Filiais,Fretes e deslocamentos técnicos,74000,79000,92.0,90.1,4.1,66,73
+2026-02,Engenharia,CAPEX,Implantação de Ativos,Projetos Novos,Instalação de novos equipamentos,330000,355000,98.0,94.6,6.2,20,23
+2026-02,Administrativo,OPEX,Serviços Terceiros,Backoffice,Apoio administrativo e contratos,88000,90500,96.0,95.0,2.3,36,37
+2026-03,Operações,OPEX,Manutenção Preventiva,Mobiliário Urbano,Contrato manutenção preventiva,190000,186400,96.5,97.5,2.0,145,143
+2026-03,Operações,OPEX,Manutenção Corretiva,Mobiliário Urbano,Chamados corretivos em equipamentos,127000,168900,90.0,81.5,8.9,225,298
+2026-03,Facilities,OPEX,Energia Elétrica,Abrigos e Painéis,Consumo energia ativos digitais,105000,118300,95.0,92.0,3.1,94,106
+2026-03,Logística,OPEX,Transporte,Filiais,Fretes e deslocamentos técnicos,76000,74200,92.0,93.0,3.0,68,66
+2026-03,Engenharia,CAPEX,Implantação de Ativos,Projetos Novos,Instalação de novos equipamentos,345000,372000,98.0,93.8,7.1,22,25
+2026-03,Administrativo,OPEX,Serviços Terceiros,Backoffice,Apoio administrativo e contratos,90000,89700,96.0,96.1,1.8,38,37
+2026-04,Operações,OPEX,Manutenção Preventiva,Mobiliário Urbano,Contrato manutenção preventiva,192000,191500,96.5,96.9,2.2,148,148
+2026-04,Operações,OPEX,Manutenção Corretiva,Mobiliário Urbano,Chamados corretivos em equipamentos,130000,162400,90.0,82.8,8.1,230,286
+2026-04,Facilities,OPEX,Energia Elétrica,Abrigos e Painéis,Consumo energia ativos digitais,109000,121000,95.0,92.7,2.9,96,108
+2026-04,Logística,OPEX,Transporte,Filiais,Fretes e deslocamentos técnicos,78000,83500,92.0,89.8,4.6,70,78
+2026-04,Engenharia,CAPEX,Implantação de Ativos,Projetos Novos,Instalação de novos equipamentos,360000,348000,98.0,98.4,4.0,24,23
+2026-04,Administrativo,OPEX,Serviços Terceiros,Backoffice,Apoio administrativo e contratos,92000,98500,96.0,93.7,3.5,40,43
+2026-05,Operações,OPEX,Manutenção Preventiva,Mobiliário Urbano,Contrato manutenção preventiva,195000,193000,96.5,97.1,2.0,150,149
+2026-05,Operações,OPEX,Manutenção Corretiva,Mobiliário Urbano,Chamados corretivos em equipamentos,132000,174000,90.0,80.9,9.5,235,305
+2026-05,Facilities,OPEX,Energia Elétrica,Abrigos e Painéis,Consumo energia ativos digitais,111000,126800,95.0,91.8,3.4,98,113
+2026-05,Logística,OPEX,Transporte,Filiais,Fretes e deslocamentos técnicos,80000,81400,92.0,91.2,3.8,72,75
+2026-05,Engenharia,CAPEX,Implantação de Ativos,Projetos Novos,Instalação de novos equipamentos,370000,402000,98.0,92.6,8.0,25,29
+2026-05,Administrativo,OPEX,Serviços Terceiros,Backoffice,Apoio administrativo e contratos,94000,96300,96.0,95.4,2.1,42,43
+2026-06,Operações,OPEX,Manutenção Preventiva,Mobiliário Urbano,Contrato manutenção preventiva,198000,196000,96.5,97.0,2.1,152,151
+2026-06,Operações,OPEX,Manutenção Corretiva,Mobiliário Urbano,Chamados corretivos em equipamentos,135000,158500,90.0,84.7,7.2,240,276
+2026-06,Facilities,OPEX,Energia Elétrica,Abrigos e Painéis,Consumo energia ativos digitais,113000,119600,95.0,94.0,2.4,100,105
+2026-06,Logística,OPEX,Transporte,Filiais,Fretes e deslocamentos técnicos,82000,85500,92.0,90.5,4.0,74,79
+2026-06,Engenharia,CAPEX,Implantação de Ativos,Projetos Novos,Instalação de novos equipamentos,380000,375000,98.0,97.5,4.6,26,26
+2026-06,Administrativo,OPEX,Serviços Terceiros,Backoffice,Apoio administrativo e contratos,96000,100500,96.0,94.0,3.2,43,45
