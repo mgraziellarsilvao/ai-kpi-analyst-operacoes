@@ -135,7 +135,7 @@ streamlit run app.py
 ```
 
 Acesse em `http://localhost:8501`
-
+Link deploy: https://ai-kpi-analyst-operacoes.streamlit.app/
 ---
 
 ## Decisões de Design
